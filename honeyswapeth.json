@@ -449,7 +449,7 @@
 		},
 		{
 			"name": "MITH Share",
-			"address": "0x4b4D2e899658FB59b1D518b68fe836B1ee8958",
+			"address": "0x4b4D2e899658FB59b1D518b68fe836B100ee8958",
 			"symbol": "MIS",
 			"decimals": 18,
 			"chainId": 1,
